@@ -12,3 +12,5 @@ List of vehicle (Bikes, scooters, cars) sharing services around the world
 ## Warsaw, Poland
 - Veturilo (bikes and e-bikes):
   [Site](https://www.veturilo.waw.pl/en/) | [Apple](https://itunes.apple.com/us/app/veturilo/id1202272068?l=pl&ls=1&mt=8) | [Android](https://play.google.com/store/apps/details?id=com.nextbike.veturilo) | [Windows mobile](https://www.microsoft.com/pl-pl/store/p/nextbike/9wzdncrdbxk3)
+- Lime (e-scooters):
+  [Site](https://www.li.me) | [Apple](https://apps.apple.com/us/app/limebike-your-ride-anytime/id1199780189?ls=1) | [Android](https://play.google.com/store/apps/details?id=com.limebike&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
